@@ -1,0 +1,64 @@
+/* BODY  */
+.media {
+  text-align: center;
+  padding: 2%;
+  background-color: #262626;
+  display: flex;
+  justify-content: space-around;
+}
+.media a {
+  text-decoration: none;
+  color: #e4790f;
+  width: 40%;
+}
+
+.media i {
+  margin-right: 2%;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: #e4790f;
+  align-items: center;
+  padding-block: 1%;
+}
+
+.nav-bar {
+  list-style-type: none;
+  display: flex;
+  background-color: #e4790f;
+  flex-wrap: wrap;
+  width: 50%;
+  margin: 0;
+}
+.nav-submenu {
+  margin-inline: 5%;
+}
+
+.menu {
+  margin: 5%;
+}
+
+/* .navbar a {
+  background-color: #e4790f;
+}
+
+
+
+#btn-search {
+  background-color: #262626;
+  color: #e4790f;
+/* }
+.a-block {
+  text-decoration: none;
+  color: #000;
+}
+.card-title {
+  text-align: center;
+  margin-block-start: 5%;
+}
+
+.card-text {
+  padding: 3%;
+} */ ;
