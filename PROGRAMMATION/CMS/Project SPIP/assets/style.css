@@ -38,6 +38,7 @@ main > div {
 }
 .card {
   border: none !important;
+  border-radius: 1rem !important;
 }
 .card img {
   width: 100%;
@@ -45,4 +46,47 @@ main > div {
 
 .row {
   display: flex;
+}
+
+.biographie {
+  background-color: white;
+  padding: 3%;
+}
+.biographie img {
+  width: 50%;
+  margin-block-start: -10%;
+  border-radius: 50%;
+}
+.biographie p {
+  margin-block-start: 5%;
+}
+
+.identifications {
+  background-color: #fff;
+  padding: 5%;
+  margin: 3%;
+  width: 94% !important;
+}
+
+.newsletter {
+  padding: 5%;
+  margin: 3%;
+  width: 94% !important;
+}
+.newsletter input {
+  padding: 2%;
+  margin: 3%;
+  width: 94% !important;
+}
+.newsletter button {
+  padding: 2%;
+  margin: 3%;
+  width: 94% !important;
+}
+
+footer {
+  background-color: #262626;
+  color: #fff;
+  display: flex;
+  justify-content: center;
 }
